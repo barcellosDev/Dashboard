@@ -1,6 +1,6 @@
 # Dashboard (sistema de chamados)
 _Gerencie chamados e abra novas dinamicamente._
-<hr>
+
 __Importe o arquivo SQL "dashboard.sql" para dump de dados no seu banco de dados para assim você poder utilizar o dashboard.__
 
 __Usuários:__
