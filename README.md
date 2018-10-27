@@ -36,7 +36,7 @@ __Usuários:__
 
 _Para entrar como gestor, adicione 1 no número USP do técnico_
 
-<br>
+**Inspirado no projeto SisDF de André Girol: https://github.com/df-ffclrp/SisDF**
 
 __Exemplo: 101 Gestor Manutenção__
 
