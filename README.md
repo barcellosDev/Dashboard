@@ -32,8 +32,12 @@ __Usuários:__
   </tr>
 
 </table>
-_Para entrar como gestor, adicione 1 no número USP do técnico_
 <br>
+
+_Para entrar como gestor, adicione 1 no número USP do técnico_
+
+<br>
+
 __Exemplo: 101 Gestor Manutenção__
 
 __*Observação: página para ver seus chamados em que cadastrou está incompleto e está em trabalho.*__
