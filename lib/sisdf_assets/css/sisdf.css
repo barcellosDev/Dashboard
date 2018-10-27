@@ -1,0 +1,42 @@
+/*
+
+*/
+/*
+    Created on : Mar 28, 2017, 11:45:27 AM
+    Author     : andre
+*/
+
+/* * {
+    border: 1px solid blueviolet;
+} */
+
+/* Bootstrap Colors */
+.txt-blue {
+    color: #2E6DA4;
+}
+
+.txt-green {
+    color: #4CAE4C;
+}
+
+.txt-light-blue {
+    color: #46B8DA;
+}
+
+.txt-orange{
+    color: #EEA236;
+}
+
+.txt-red {
+    color: #D43F3A;
+}
+/* Header para ambiente de desenvolvimento */
+.dev_header {
+    font-family: monospace;
+    font-size: 25px;
+    color: white;
+    background-color: #D43F3A;
+    margin: 0 auto;
+    text-align: center;
+
+}
